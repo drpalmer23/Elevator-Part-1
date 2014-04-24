@@ -10,10 +10,11 @@ The rules to this exersise are simple. The students must start with these four v
 
 
 And they must write a simple algo that will console log one of four possible messages:
+
 1. Pickup Person Going Up
-2. Pickup Person Going Down
-3. Can't Pickup Person (Car going in wrong direction)
-4. Can't Pickup Person (Car already passed)
+1. Pickup Person Going Down
+1. Can't Pickup Person (Car going in wrong direction)
+1. Can't Pickup Person (Car already passed)
 
 Use Case
 -
