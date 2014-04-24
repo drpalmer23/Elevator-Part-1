@@ -19,11 +19,10 @@ And they must write a simple algo that will console log one of four possible mes
 Use Case
 --
 
-With the variables written above, the car and the person are going
-in the same direction. However the car is already at floor 5 which
-means it's not going towards the person, but away from them. The
-correct output for this situation is: #4 - "Can't Pickup Person (Car
-already passed)"
+    With the variables written above, the car and the person are going in the
+same direction. However the car is already at floor 5 which means it's not
+going towards the person, but away from them. The correct output for this
+situation is: #4 - "Can't Pickup Person (Car already passed)"
 
 See the solution for more info
 
